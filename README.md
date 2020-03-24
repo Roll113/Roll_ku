@@ -5,3 +5,5 @@
 2、利用3个参数抖动的lightgbm模型，LR模型stacking融合
 
 3、AUC模型评估
+
+![Image text](https://github.com/Roll113/risk_predict/blob/master/auc_cv.png)
